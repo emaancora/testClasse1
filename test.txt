@@ -1,1 +1,1 @@
-Questo è un test
+Questo è il contenuto del file "test.txt"
